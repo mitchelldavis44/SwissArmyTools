@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "274017605320",
+    "firebase_url": "https://swissarmytools.firebaseio.com",
+    "project_id": "swissarmytools",
+    "storage_bucket": "swissarmytools.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274017605320:android:1fa9c1dbf694043a",
+        "android_client_info": {
+          "package_name": "com.mts2792.swissarmytools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274017605320-bla01rdretdv7q9tpk4momnjcjnll4lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBCCbPmEjkdxAtIvo05DcfZq9Bj0zd7RA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
